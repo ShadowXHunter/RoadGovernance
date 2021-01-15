@@ -1,0 +1,7 @@
+As citizen of India we know that in India there is a lot of problems regarding the condition of
+the roads as there are many potholes and condition is very critical in any city X. Now
+problem is that the concerned departments are not able to co-ordinate to resolve the above
+problem. Basically there is disconnection between agencies, people and elected members.
+Your aim is to develop a web or app (Whatever you want) which provide flow of information
+among all concerned stakeholders and to provide better Governance by more involvement of
+public
