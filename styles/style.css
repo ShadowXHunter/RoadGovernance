@@ -1,0 +1,70 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.navbar{
+    display: flex;
+
+}
+
+.logo{
+    width: 20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo img{
+    width: 30%;
+    border: 3px solid white;
+    border-radius: 40px;
+}
+
+.nav-list {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.nav-list li{
+    padding: 24px 24px;
+    list-style: none;
+
+
+}
+
+.nav-list li a{
+    text-decoration: none;
+    padding: 22px 22px;
+    color: rgb(235, 225, 225);
+    font-size: xx-large;
+    text-decoration: none;
+
+}
+.nav-list li a:hover{
+    color: burlywood;
+}
+
+
+.background{
+    background: rgba(0, 0,0, 0.5) url('/road3.jpg');
+    background-size: cover;
+    background-blend-mode: darken;
+}
+
+.FirstSection1{
+    height: 100vh;
+}
+
+.box-main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: seashell;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
